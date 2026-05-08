@@ -1,0 +1,9 @@
+# Wattens House
+
+> Wattens House — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/wattenhouse/
+
+## Pages
+
+- [Wattens House](https://singaporenewproperty.github.io/wattenhouse/): Wattens House property information.
